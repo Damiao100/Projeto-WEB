@@ -37,12 +37,12 @@ Os arquivos na pasta
 
  
     ```bash
-    git clone https://github.com/seu-usuario/exemplos-paginas-web.git
+    git clone https://github.com/seu-usuario/exemplos-projeto-web.git
     ```
 
 2. Navegue até a pasta do projeto:
 
    
     ```bash
-    cd exemplos-paginas-web
+    cd exemplos-projeto-web
     ```
