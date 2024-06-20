@@ -1,0 +1,15 @@
+body{
+	background-color: white;
+}
+h1{
+	font-family: sans-serif;
+	fonte-size: 14py;
+	font-weight: bold;
+	color: red;
+}
+ul{
+	font-family: Arial;
+	font-size: 12py;
+	list-style-image: url(bolo.png);
+	list-style-position: inside;
+}

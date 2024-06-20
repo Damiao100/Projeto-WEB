@@ -1,0 +1,27 @@
+
+p{
+	font-family: Arial;
+	font-size: 12pt;
+	text-align: justify;
+	text-indent: 30pt
+}
+h1{
+	font-family: sans-serif;
+	font-size: 18pt;
+	font-weight: bold;
+}
+.inferior {
+	text-decoration: underline;
+	
+}
+.superior {
+	text-decoration: overline;
+    
+}
+.centro {
+	text-decoration: line-through;
+	
+}
+.pisca {
+	text-decoration: blink;
+}

@@ -1,0 +1,23 @@
+
+h1{
+	font-family: sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	color: red;
+}
+ul{
+	font-family: Arial;
+	font-size: 12pt;
+	list-style-type: lower-alpha;
+	
+}
+/*.doce{
+	list-style-image: url(search.bolo)
+}
+.fruta{
+	list-style-image: url(search_morango)
+}
+.lanche{
+	list-style-image: url(search_sanduiche)
+}
+*/
