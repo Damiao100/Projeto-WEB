@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Formulário/Novas Opções de Campos</title>
+    </head>
+    <body>
+        <header><h1>Curso de HTML</h1></header>
+        <nav></nav>
+        <section>
+            <form method="post" action="#">
+			<!-- esse tipo de campo ja faz toda a validação do email -->
+				Email:<input type="email" name="email">
+			<!-- esse tipo de campo nos mostra um calendario para selecionar a data -->	
+				Data:<input type="date" name="data">
+			<!-- esse tipo de campo nos mostra uma faixa para selecão de um valor -->	
+				Faixa:<input type="range" name="faixa"><br>
+				<!-- esse tipo de campo nos mostra uma faixa cores para selecão  -->	
+				Cor:<input type="color" name="cor">
+			</form>
+			<!-- esse tipo de campo nos mostra uma lista para selecão  -->
+			<form method="post" action="#">
+				CURSO:<input list="cursos" name="curso">
+				<datalist id="cursos">
+					<option value="HTML">
+					<option value="CSS">
+					<option value="JavaScript">
+				</datalist>
+			</form>
+        </section>
+        <footer></footer>
+    </body>
+</html>
